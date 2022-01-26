@@ -18,7 +18,7 @@ This project is aimed at predicting the case of customers default payments in Ta
 
 ## Deployment of Streamlit WebApp in Heroku and Streamlit
 
-We have created front-end using Streamlit for the webapp. whose deployments and github link are as follows 
+We have created front-end using Streamlit.Its deployments and github link are as follows 
 
 | Website | Link |
 | ------ | ------ |
