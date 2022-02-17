@@ -22,9 +22,9 @@ We have created front-end using Streamlit.Its deployments and github link are as
 
 | Website | Link |
 | ------ | ------ |
-| Github | https://github.com/Ali-Asgar-Lakdawala/ML-deployment |
-| Heroku | https://my-ml-deployment.herokuapp.com/ |
-| Streamlit | https://share.streamlit.io/ali-asgar-lakdawala/ml-deployment/main/app.py |
+| Github | https://github.com/Ali-Asgar-Lakdawala/my-ml-deployment-2 |
+| Heroku | https://my-ml-deployment-2.herokuapp.com/ |
+| Streamlit | https://share.streamlit.io/ali-asgar-lakdawala/my-ml-deployment-2/main/app.py|
 ## Conclusion
 
 * From the project we can conclude that the default rate is higher for males, increases as the education increases, and also increases as the age of a person increases. i.e clients whose age over 60 was higher than mid-age and young people.
